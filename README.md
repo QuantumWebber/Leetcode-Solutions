@@ -1878,6 +1878,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1029-two-city-scheduling](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1886,8 +1887,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1029-two-city-scheduling](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1029-two-city-scheduling](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 <!---LeetCode Topics End-->
