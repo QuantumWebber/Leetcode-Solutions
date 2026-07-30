@@ -1871,3 +1871,23 @@
 | 2724 | [Sort By](./2724-sort-by/) | Easy | javascript |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | cpp |
 | 3151 | [Special Array I](./3151-special-array-i/) | Easy | cpp |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+<!---LeetCode Topics End-->
