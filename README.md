@@ -1878,6 +1878,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1029-two-city-scheduling](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [2498-frog-jump-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
@@ -1905,6 +1906,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
