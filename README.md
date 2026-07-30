@@ -1879,6 +1879,7 @@
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1029-two-city-scheduling](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
+| [2498-frog-jump-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1888,6 +1889,7 @@
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1029-two-city-scheduling](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
+| [2498-frog-jump-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1905,4 +1907,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2498-frog-jump-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
 <!---LeetCode Topics End-->
