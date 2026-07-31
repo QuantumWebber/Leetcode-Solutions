@@ -1931,5 +1931,18 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
