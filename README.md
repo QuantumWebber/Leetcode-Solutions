@@ -1897,6 +1897,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0670-maximum-swap](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0670-maximum-swap/) | Medium |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1029-two-city-scheduling](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [2498-frog-jump-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
@@ -1910,6 +1911,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0670-maximum-swap](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0670-maximum-swap/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
