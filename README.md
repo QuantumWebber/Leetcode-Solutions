@@ -1881,6 +1881,7 @@
 | [0198-house-robber](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1029-two-city-scheduling](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [2498-frog-jump-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
@@ -1919,4 +1920,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2498-frog-jump-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
