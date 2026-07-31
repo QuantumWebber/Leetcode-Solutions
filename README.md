@@ -1883,6 +1883,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0994-rotting-oranges](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1029-two-city-scheduling](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [2498-frog-jump-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
 ## Two Pointers
@@ -1933,6 +1934,7 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
+| [0994-rotting-oranges](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1945,4 +1947,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
