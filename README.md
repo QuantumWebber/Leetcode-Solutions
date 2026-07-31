@@ -1883,6 +1883,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0721-accounts-merge](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0881-boats-to-save-people](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -1917,6 +1918,7 @@
 | [0213-house-robber-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
