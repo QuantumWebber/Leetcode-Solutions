@@ -1880,6 +1880,7 @@
 | [0134-gas-station](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0198-house-robber](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0721-accounts-merge](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
@@ -1914,11 +1915,13 @@
 | [0070-climbing-stairs](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1936,6 +1939,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
@@ -1943,6 +1947,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Union-Find
@@ -1953,9 +1958,15 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0994-rotting-oranges](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
