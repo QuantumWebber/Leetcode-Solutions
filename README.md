@@ -1933,6 +1933,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0721-accounts-merge](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 ## String
@@ -1982,4 +1983,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
