@@ -1,82 +1,45 @@
 class LRUCache {
-private:
-    struct Node {
-        int key, value;
-        Node* prev;
-        Node* next;
-        Node(int k, int v) : key(k), value(v), prev(nullptr), next(nullptr) {}
-    };
-
-    int capacity;
-    unordered_map<int, Node*> mp;   // key -> node ka pointer
-    Node* head;                      // dummy head : iske baad MRU
-    Node* tail;                      // dummy tail : iske pehle LRU
-
-    // node ko list se bahar nikaal do
-    void removeNode(Node* node) {
-        node->prev->next = node->next;
-        node->next->prev = node->prev;
-    }
-
-    // node ko head ke turant baad daal do (MRU position)
-    void insertAtFront(Node* node) {
-        node->next = head->next;
-        node->prev = head;
-        head->next->prev = node;
-        head->next = node;
-    }
-
-    void moveToFront(Node* node) {
-        removeNode(node);
-        insertAtFront(node);
-    }
+    int cap;
+    list<pair<int,int>>dll;
+    unordered_map<int,list<pair<int,int>>::iterator>mp;
 
 public:
-    LRUCache(int capacity) {
-        this->capacity = capacity;
-        head = new Node(-1, -1);
-        tail = new Node(-1, -1);
-        head->next = tail;
-        tail->prev = head;
+    LRUCache(int capacity) :cap(capacity){
+    
     }
-
+    
     int get(int key) {
-        if (mp.find(key) == mp.end()) return -1;
+        
+        if(mp.find(key)==mp.end())  return -1;
 
-        Node* node = mp[key];
-        moveToFront(node);          // ab ye most recently used hai
-        return node->value;
+        dll.splice(dll.begin(),dll,mp[key]); // uss key ko recent mei le aao 
+        return mp[key]->second;
     }
-
+    
     void put(int key, int value) {
-        // Case 1 : key pehle se maujood hai
-        if (mp.find(key) != mp.end()) {
-            Node* node = mp[key];
-            node->value = value;
-            moveToFront(node);
+
+        if(mp.find(key)!=mp.end()){
+            mp[key]->second=value;
+            dll.splice(dll.begin(),dll,mp[key]);
             return;
         }
 
-        // Case 2 : nayi key, aur cache full hai -> LRU evict karo
-        if ((int)mp.size() == capacity) {
-            Node* lru = tail->prev;   // sabse purana used node
-            removeNode(lru);
-            mp.erase(lru->key);
-            delete lru;               // memory free
+        // agr cap reach 
+        if(dll.size()==cap){
+            mp.erase(dll.back().first);
+            dll.pop_back();
         }
 
-        // Case 3 : naya node insert
-        Node* node = new Node(key, value);
-        insertAtFront(node);
-        mp[key] = node;
-    }
 
-    ~LRUCache() {
-        Node* cur = head;
-        while (cur) {
-            Node* nxt = cur->next;
-            delete cur;
-            cur = nxt;
-        }
+        dll.push_front({key,value});
+        mp[key]=dll.begin();
+        
     }
 };
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
