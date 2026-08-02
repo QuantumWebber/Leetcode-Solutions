@@ -1934,6 +1934,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0721-accounts-merge](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 ## String
@@ -1987,12 +1988,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/QuantumWebber/Leetcode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
